@@ -1,0 +1,8 @@
+This PDF Scrubber has been built by ProjectApolloDev
+Just change the PDF path to scrub the location of whatever PDF you want to scrub.
+Also change the PDF export path to wherever you would like the scrubbed PDF to be saved.
+
+This PDF scrubber is only built to Scrub emails and inject them into a excel document. Idea use this to create email blaster lists :)
+Designed: Github User: ProjectApolloDev
+
+Want to support me: Check out my website - www.AVS.business
